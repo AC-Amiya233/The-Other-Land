@@ -1,5 +1,5 @@
 # The Other Land
-This is a source code repository for COMP4122 final project.
+This is a source code repository for COMP4122 Game Design And Development final project.
 
 Denoted by:
 
